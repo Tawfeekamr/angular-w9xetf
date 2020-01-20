@@ -1,0 +1,104 @@
+/*
+  By: Tawfeeq Amro - Front End
+  Date: 1/16/2020
+  CSS: https://bulma.io/ for maximum speed.
+  Reason of usage: low wight library system, fast and optimized.
+ */
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Cairo:400,600,700&display=swap');
+@import "../../node_modules/bulma/bulma";
+
+$is-family-primary:  'Cairo', sans-serif; // Define new font face
+
+html {
+  background-color: #f5f6fa;
+  direction: rtl;
+}
+body {
+  font-family: $is-family-primary;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.border-light-blue {
+  border: solid 1px #dbdff4;
+  border-radius: 10px;
+}
+
+.new-container-size {
+  max-width: 1480px;
+}
+.pt-40 {
+  padding-top: 40px;
+}
+.pt-50 {
+  padding-top: 50px;
+}
+.data {
+  &-stats {
+    width: 215px;
+    height: 180px;
+    background-color: #ffffff;
+    &-blk {
+      padding: 17px;
+      display: flex;
+      flex-flow: column;
+      & li {
+        padding: 5px 0;
+      }
+    }
+    &-cash {
+      font-size: 24px;
+      direction: ltr;
+    }
+  }
+  &-list {
+    padding: 18px;
+  }
+  &-list-blk {
+    &-2 {
+      padding: 7px 2px;
+    }
+  }
+}
+.w-250 {
+  width:300px;
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow: ellipsis;
+}
+.flex-left-end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.make-center {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.rtl {
+  direction: rtl;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.py-10 {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.title {
+  padding: 11px 0px;
+}
+
+.part {
+
+}

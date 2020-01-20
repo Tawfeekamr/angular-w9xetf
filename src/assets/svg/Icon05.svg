@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="36" viewBox="0 0 27 36">
+    <defs>
+        <style>
+            .cls-1{fill:#6279f4}
+        </style>
+    </defs>
+    <g id="Icon_05" data-name="Icon 05" transform="translate(-64)">
+        <g id="Group_5" data-name="Group 5" transform="translate(68.501 13.5)">
+            <g id="Group_4" data-name="Group 4">
+                <path id="Path_31" d="M136.7 192.338a1.129 1.129 0 0 0-1.593 0l-3.7 3.707-1.454-1.456a1.125 1.125 0 1 0-1.591 1.591l2.251 2.251a1.114 1.114 0 0 0 .794.331 1.13 1.13 0 0 0 .8-.329l4.5-4.5a1.126 1.126 0 0 0-.007-1.595z" class="cls-1" data-name="Path 31" transform="translate(-128.024 -192.008)"/>
+            </g>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(68.501 22.499)">
+            <g id="Group_6" data-name="Group 6">
+                <path id="Path_32" d="M136.7 320.338a1.129 1.129 0 0 0-1.593 0l-3.7 3.707-1.454-1.454a1.125 1.125 0 1 0-1.591 1.591l2.251 2.251a1.128 1.128 0 0 0 1.591 0l4.5-4.5a1.126 1.126 0 0 0-.004-1.595z" class="cls-1" data-name="Path 32" transform="translate(-128.024 -320.008)"/>
+            </g>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(79.748 15.75)">
+            <g id="Group_8" data-name="Group 8">
+                <path id="Path_33" d="M293.627 224h-4.5a1.125 1.125 0 1 0 0 2.251h4.5a1.125 1.125 0 0 0 0-2.251z" class="cls-1" data-name="Path 33" transform="translate(-288 -224)"/>
+            </g>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(79.748 24.75)">
+            <g id="Group_10" data-name="Group 10">
+                <path id="Path_34" d="M293.627 352h-4.5a1.125 1.125 0 0 0 0 2.251h4.5a1.125 1.125 0 0 0 0-2.251z" class="cls-1" data-name="Path 34" transform="translate(-288 -352)"/>
+            </g>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(64)">
+            <g id="Group_12" data-name="Group 12">
+                <path id="Path_35" d="M88.75 4.5h-4.5V3.375a1.125 1.125 0 0 0-1.125-1.125h-2.441a3.378 3.378 0 0 0-6.368 0h-2.441a1.125 1.125 0 0 0-1.125 1.125V4.5h-4.5A2.254 2.254 0 0 0 64 6.75v27A2.254 2.254 0 0 0 66.25 36h22.5A2.254 2.254 0 0 0 91 33.75v-27a2.254 2.254 0 0 0-2.25-2.25zM73 4.5h2.25a1.125 1.125 0 0 0 1.125-1.125 1.125 1.125 0 1 1 2.25 0A1.125 1.125 0 0 0 79.75 4.5H82v2.25h-9zm15.75 29.25h-22.5v-27h4.5v1.125A1.125 1.125 0 0 0 71.875 9h11.25a1.125 1.125 0 0 0 1.125-1.125V6.75h4.5z" class="cls-1" data-name="Path 35" transform="translate(-64)"/>
+            </g>
+        </g>
+    </g>
+</svg>
